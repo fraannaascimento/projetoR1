@@ -1,1 +1,0 @@
-print("wanusa eu estou com fome, me dá comida")
