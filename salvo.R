@@ -6,4 +6,4 @@ print("to com sono")
 
 
 print("nusa,lele e ceci")
-prinr("eu amo nusa, ela é maravilhosa")
+print("eu amo nusa, ela é maravilhosa")
