@@ -6,3 +6,4 @@ print("to com sono")
 
 
 print("nusa,lele e ceci")
+print("nao, são lindas, apenas fran")
